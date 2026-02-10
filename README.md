@@ -31,7 +31,7 @@ The analysis is presented through an **interactive Streamlit dashboard** designe
 
 1. Clone the repository  
    Use the GitHub clone button or:
-   git clone https://github.com/<your-username>/client-portfolio-analysis.git
+   git clone https://github.com/rasikatalwar/client-portfolio-analysis.git
 
 2. Navigate into the project folder  
    cd client-portfolio-analysis
