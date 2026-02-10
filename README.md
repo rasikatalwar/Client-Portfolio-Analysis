@@ -5,7 +5,13 @@ This project simulates a real-world **Wealth Management** use case where a clien
 The analysis is presented through an **interactive Streamlit dashboard** designed to be client-facing and easy to interpret for non-technical stakeholders.
 
 ---
+## 🎥 Dashboard Demo
 
+Click below to watch a short demo of the dashboard:
+
+https://github.com/rasikatalwar/client-portfolio-analysis/blob/main/assets/dashboard_demo.mp4
+
+---
 ## 📌 Key Features
 
 - Portfolio return and profit/loss (P&L) analysis  
