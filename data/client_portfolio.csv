@@ -1,0 +1,6 @@
+client_id,asset_name,asset_class,units,avg_buy_price,investment_amount,risk_category
+C001,RELIANCE,Equity,50,2400,120000,High
+C001,TCS,Equity,30,3500,105000,Medium
+C001,NIFTY50_ETF,Equity,40,180,7200,Medium
+C001,BOND_ETF,Debt,100,100,10000,Low
+C001,GOLD_ETF,Gold,25,5500,137500,Medium
